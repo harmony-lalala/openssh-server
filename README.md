@@ -2,7 +2,7 @@
 
 ## Starting the server
 
-1. Create a file `authorized_keys` in `config` folder
+1. Create a file `authorized_keys` in `config` folder and fill it with public keys.
 
 2. Checkout the repos you need into `repos` folder:
 
